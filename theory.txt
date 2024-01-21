@@ -1,0 +1,63 @@
+
+
+
+=======foreach loop======
+
+for(initiliaze; condition/range; increment){
+    ==========
+}
+
+let numbers = [50, 40, 84, 30, 52];
+
+numbers.forEach(elements=>{
+    console.log(elements);
+});
+
+
+===============while==========
+
+let i = 0; (initiliaze)
+
+while(condition/range){
+    ======
+
+    increment/decrement
+}
+
+
+let i=0;
+while(i<=4){
+    console.log('Hello World!');
+    i++;
+}
+
+=========do while========
+
+let i=0;(initiliaze)
+
+do{
+    console.log('Hello World!');
+    i++;
+}
+
+while(i<=4);
+
+
+================Function+Event===========
+
+function name(parameter, parameter1.....n){  //parameter is optional
+    ========
+    return //optional
+}
+
+Events....
+1. Onclick
+2. OnChange
+3. OnKeyUp
+4. OnKeyDown
+5. OnMouseOver
+6. onLoad
+
+
+
+ is a banker. He goes to Mondir to prayer.
